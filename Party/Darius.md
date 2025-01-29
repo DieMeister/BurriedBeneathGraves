@@ -4,6 +4,23 @@ references:
 ---
 [[Darius]] ist ein [[Firbolg]] in seinen Zwanzigern. Er ist ein [[Bard|Barde]] mit der Subclass [[College of Whisper]]. 
 Er ist in [[Verekir]] geboren und aufgewachsen, seine [[Mutter]] starb allerdings früh an einer #Krankheit und er wurde nur von seinem [[Vater]] und seiner 3 Jahre älteren [[Schwester]] aufgezogen, mit dem es aufgrund unterschiedlicher politischer Einstellungen immer wieder zu Meinungsverschiedenheiten kommt. Als Teenager radikalisiert er sich immer weiter, bis er sich schließlich komplett dem Aktivismus widmet.
+# Inhalt
+- [[#Inhalt]]
+- [[#Backstory]]
+- [[#Aussehen]]
+	- [[#Kleidung]]
+- [[#Persönlichkeit]]
+- [[#Kunst]]
+- [[#Eigentum]]
+- [[#Ideologie]]
+	- [[#Utopie]]
+		- [[#Grundsätzliches]]
+		- [[#Legislative]]
+			- [[#Landesebene]]
+			- [[#weitere Ebenen]]
+		- [[#Exekutive]]
+		- [[#Judikative]]
+- [[#Ziele]]
 # Backstory
 [[Darius]] wächst in [[Verekir]] bei seinem [[Darius' Vater|Vater]] auf, seine [[Mutter]] stirbt kurz nach seiner Geburt an einer Krankheit. Während seiner Kindheit ist [[Krieg]], [[Verekir]] ist aber nicht in Kämpfe verwickelt und seine Kindheit verläuft entsprechend normal, die Situation trägt aber erheblich zu seiner Radikalisierung bei.
 Als Teenager engagiert er sich zunehmend politisch und sucht vermehrt den Kontakt zu einflussreichen Personen, um die Gesellschaft nach dem Krieg nach seiner Vorstellung formen zu können, wobei auch eine Brieffreundschaft zu [[Terim]] entsteht. Durch seinen Aktivismus und seine politische Position kommt es zwischen ihm und seinem [[Darius' Vater|Vater]] immer wieder zu Streit. Der Rest der Familie probiert sich größtenteils rauszuhalten.

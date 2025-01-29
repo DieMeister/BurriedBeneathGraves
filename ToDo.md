@@ -13,3 +13,4 @@
 - [x] Ziel von [[Darius]] ausarbeiten
 - [ ] start page with general infos
 - [ ] page for sciences (astronomy)
+- [ ] add Links in Summary

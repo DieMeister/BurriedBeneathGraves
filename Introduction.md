@@ -1,3 +1,7 @@
+# Inhalt
+- [[#Inhalt]]
+- [[#Einführung]]
+- [[#Kampagne]]
 # Einführung
 Es ist nur wenige Zeit her, seitdem der Tyrann [[Askarash]] gefallen ist. Die Dynastie von [[Meluzan]], welche ihn bezwang, bereitet nun die früheren Gebiete, welche dem Imperium von [[Karaxan]] angehörten, auf Wahlen bezüglich der zukünftigen Führung vor.
 
