@@ -1,0 +1,1 @@
+[[Verekir]] ist eine Stadt im Norden, welche vor allem für ihre Ausgelassenheit und Kunst bekannt ist. Während des [[Krieg|Kriegs]] wurde sie als erstes eingenommen, da [[Verekir]] zu unorganisiert für einen Widerstand ist, zugleich aber auch keiner versucht wurde.

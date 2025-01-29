@@ -1,0 +1,2 @@
+[[Grashk]] ist der nördlichste Hafen am [[Meer]] und ist von extremen Gezeiten gezeichnet. Ebbe und Flut kommen in sehr unregelmäßigen Abständen und in einem Ausmaß, dass man bei Ebbe kilometerweit auf dem Meeresboden laufen kann. Kommt wieder eine Ebbe wird das [[Fest des Letzten Schiffs]] gefeiert.
+Zudem hat die Stadt mit einem Fluch zu kämpfen, der immer wieder Sachen und manchmal Personen verschwinden lässt.

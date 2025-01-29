@@ -1,0 +1,3 @@
+[[Terim]] ist der [[Flutbeobachter]] [[Grashk|Grashks]]. Während des [[Krieg|Kriegs]] und des [[Massaker von Grashk]] schmuggelte er viele Leute nach [[Utlin]]. Nach Ende des [[Krieg|Kriegs]] nimmt er seine Aufgabe als [[Flutbeobachter]] wieder auf und probiert [[Grashk]] zu neuer Stärke zu führen.
+[[Terim]] hat keine Kinder oder Partner, er fokussiert sich komplett auf das Wohl [[Grashk|Grashks]] und dessen Bewohner.
+Er ist eine widerstandsfähige Person mit einem klaren Wertekodex, welcher sich vor allem auf den Schutz der Allgemeinheit bezieht.

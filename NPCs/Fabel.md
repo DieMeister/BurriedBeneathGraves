@@ -1,0 +1,1 @@
+[[Fabel]] ist ein rotes [[Eichhörnchen]]. Er und [[Darius]] haben sich in der Nähe [[Verekir|Verekirs]] getroffen, einen besonderen Grund, warum [[Fabel]] [[Darius]] begleitet gibt es nicht. [[Fabel]] verbringt die meiste Zeit in Darius' [[Tasche]] oder auf seiner Schulter und schläft.

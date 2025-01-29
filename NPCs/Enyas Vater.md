@@ -1,0 +1,2 @@
+[[Enyas Vater]] ist auf den [[Siath Inseln]] geboren. Diese verlässt er aber, da er den Anforderungen seiner streng gläubigen Familie nicht gerecht werden kann, obwohl er selbst auch and [[Siath]] glaubt, und geht nach [[Grashk]]. Dort lernt er seine [[Enyas Mutter|Frau]] kennen und sie zeugen gemeinsam eine [[Enya|Tochter]]. Während des [[Massaker von Grashk|Massakers von Grashk]] fliehen sie nach [[Utlin]].
+Sein Geld verdient [[Enyas Vater]] als Goldschmied.
