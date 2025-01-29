@@ -1,0 +1,1 @@
+[[Changeling|Changelinge]] merken erst später im Leben, dass sie ein [[Changeling]] sind und nicht die Person, die sie davor dachten zu sein. Es ist unklar, ob [[Changeling|Changelinge]] Eltern haben.

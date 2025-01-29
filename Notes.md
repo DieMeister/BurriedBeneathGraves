@@ -1,18 +1,5 @@
-- Siath
-	- harmonie
-	- strikte meditation
-- utlin
-	- weit entfernteste stadt die melozan zu melozan zählt
-	- nicht relevantester hafen
-		- relevantester hafen ist sivyl
-	- ort um waren zu schmuggeln
-- changeling
-	- merken irgendwann dass sie ein changeling sind und nicht die person die sie dachten dass sie sind
-	- haben changelings eltern?
 - sehr unterschiedliche strömungen wie es nach dem krieg weitergehen soll
 - schienennetzt wird gebaut
-- ichor loch
-	- ehemaliges militär camp
 - von verekir nach grashk laufen ca. 1-2 wochen
 
 
@@ -43,8 +30,6 @@
 
 
 
-- etsher häufigste religion
 - war forge camp zwischen verekir und karaxan
+	- ehemaliges militär camp
 	- westlich ichor loch
-
-- Darius droppt manchmal random facts

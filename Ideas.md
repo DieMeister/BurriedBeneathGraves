@@ -1,2 +1,1 @@
-- Session Summaries as letters to a friend is [[Verekir]] or diarie entries
-- 
+- Session Summaries as letters to a friend in [[Verekir]] or diarie entries

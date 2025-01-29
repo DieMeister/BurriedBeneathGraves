@@ -2,11 +2,14 @@
 - [ ] NPC mit grundlegend anderer Vorstellung aber müssen zusammenarbeiten
 - [ ] create clear ideology for [[Darius]]
 - [ ] NPC who's politically different but [[Darius]] respects
-- [ ] Character i want to meet
+- [x] Character i want to meet
 - [ ] get information from [[Session 0]] (02:27:00)
 - [ ] cut [[Session 0]]
 - [ ] cut [[Sessions/Transcripts/Session 1|Session 1]] (01:21:55)
 - [ ] transcribe [[Sessions/Summaries/Session 1|Session 1]] (12:12)
 - [ ] copy information from [[Sessions/Summaries/Session 1|Session 1]] to their corresponding file
 - [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von
-- [ ] Blogpost wie [[Darius|Darius']] Nacht bei [[Terim]] war
+- [x] Blogpost wie [[Darius|Darius']] Nacht bei [[Terim]] war
+- [x] Ziel von [[Darius]] ausarbeiten
+- [ ] start page with general infos
+- [ ] page for sciences (astronomy)
