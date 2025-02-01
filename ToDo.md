@@ -5,7 +5,7 @@
 - [x] Character i want to meet
 - [ ] get information from [[Session 0]] (02:27:00)
 - [ ] cut [[Session 0]]
-- [ ] cut [[Sessions/Transcripts/Session 1|Session 1]] (01:21:55)
+- [ ] cut [[Sessions/Transcripts/Session 1|Session 1]] (01:26:01)
 - [ ] transcribe [[Sessions/Summaries/Session 1|Session 1]] (12:12)
 - [ ] copy information from [[Sessions/Summaries/Session 1|Session 1]] to their corresponding file
 - [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von
@@ -14,3 +14,7 @@
 - [ ] start page with general infos
 - [ ] page for sciences (astronomy)
 - [ ] add Links in Summary
+- [ ] cut [[Session 2]] (09:30)
+- [ ] get information out of [[Session 2]]
+- [ ] transcribe [[Session 2]]
+- [x] spells in character sheet übertragen

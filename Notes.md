@@ -33,3 +33,4 @@
 - war forge camp zwischen verekir und karaxan
 	- ehemaliges militär camp
 	- westlich ichor loch
+

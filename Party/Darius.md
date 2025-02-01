@@ -27,7 +27,7 @@ Als Teenager engagiert er sich zunehmend politisch und sucht vermehrt den Kontak
 Mit 22 verlässt [[Darius]] [[Verekir]] um seinen Einfluss weiter zu vergrößern und das Verhältnis zu seinem [[Darius' Vater|Vater]] nicht komplett zu zerstören.
 # Aussehen
 [[Darius]] ist ein [[Firbolg]] durchschnittlicher Statur mit einer Stupsnase und Kuhohren, Hörner hat er keine. Er hat mittellange, curly Haare, welche ab etwa der Hälfte vom natürlichen Braun in ein gefärbtes Orange übergehen. Er hat zwei kleine Zöpfe, die ihm bis über die Schultern reichen. 
-[[Darius]] trägt als Piercings #SnakeBites, #AngelFangs und ein Eyebrow Piercing; Tattoos hat er keine.
+[[Darius]] trägt als Piercings SnakeBites, AngelFangs und ein Eyebrow #Piercing; Tattoos hat er keine.
 ## Kleidung
 Normalerweise trägt [[Darius]] CrustPants mit politischen Patches, am Oberkörper steht dazu im Kontrast vornehmere Kleidung. Er trägt eine Anzugsweste und ein Hemd darunter, wobei die Kleidung trotzdem funktionsfähig ist und keine leicht reißenden Stoffe verwendet werden. Dazu passend hat er festes Schuhwerk, indem auch gerannt werden kann.
 # Persönlichkeit
