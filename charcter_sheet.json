@@ -9,7 +9,7 @@
         "initiative": 0,
         "bewegungsrate": "9m",
         "trefferpunkte":{
-            "aktuell": 18,
+            "aktuell": 16,
             "maximal": 22
         },
         "rüstung": {
@@ -189,6 +189,37 @@
             {
                 "name": "Flasche Abwas",
                 "menge": 1
+            },
+            {
+                "name": "Citrin",
+                "menge": 1,
+                "beschreibung": "Stein",
+                "geschätzter-wert": "50GM"
+            },
+            {
+                "name": "Zircon",
+                "menge": 1,
+                "beschreibung": "Stein",
+                "geschätzter-wert": "50GM"
+            },
+            {
+                "name": "Cloth of Gold Vestments",
+                "menge": 1
+            },
+            {
+                "name": "Potion",
+                "menge": 1,
+                "info": "kann cast identify um Kletterwirkung herauszufinden"
+            },
+            {
+                "name": "Seil",
+                "menge": 1,
+                "info": "kann cast identify um selbstreparierende Wirkung herauszufinden"
+            },
+            {
+                "name": "Silberbarren",
+                "menge": 1,
+                "gewicht": "5 Pfund"
             }
         ]
     },
@@ -216,7 +247,7 @@
         "zauberplätze": {
             "grad_1": {
                 "max": 3,
-                "verbraucht": 2
+                "verbraucht": 3
             },
             "grad_2": {
                 "max": 0,
@@ -465,7 +496,7 @@
             "You can use this feature a number of times equal to your charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.",
             "Your bardic inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
         ],
-        "jack_of_all_trasdes": [
+        "jack_of_all_trades": [
             "Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus."
         ],
         "song_of_rest": [
