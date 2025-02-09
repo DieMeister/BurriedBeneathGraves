@@ -1,6 +1,6 @@
 - sehr unterschiedliche strömungen wie es nach dem krieg weitergehen soll
 - schienennetzt wird gebaut
-- von verekir nach grashk laufen ca. 1-2 wochen
+- von verekir nach grashk laufen ca. 1 woche
 
 
 - sonne geht norden auf, im süden unter, über westen
@@ -32,8 +32,90 @@
 
 - war forge camp zwischen verekir und karaxan
 	- ehemaliges militär camp
-	- westlich ichor loch
+	- lange verlassen
+		- schon vor kriegsende
+		- 2 zwerge dort angesiedelt
+			- kommen aus kudora
+		- leben mit war forged zusammen
+	- zwischen karaxan, verekir & grashk
+	- heißt camp recep
+	- ca. 200 war forged
+	- leben in zelten
+	- nummern und namen als namen
+		- nummern in military 
+		- namen im "privaten"
+		- niemand hat nummer 1
+		- aufsteigend nach beitrittszeitpunkt
+	-  basically cult
+	- geld für alle genutzt
+	- wollen unabhängig sein
+	- kämpfen für rechte anderer war forged
+	- stehen gegen alle, die war forged als besitzt betrachten
+	- culture
+		- shooting contests
+		- repair circles
+		- religious circles
+			- manche lehnen religion ab
+			- manchen verehren verin (erschaffer der war forged)
+		- communal barracks 
+		- gemeinschaftszelte
+			- konfrontation
+			- auseinandersetzungen
+		- war forge studies
+			- study own anatomy
+			- verbindung zu golems?
+		- political contact & studies
+			- gut  mit kudora
+	- kein leader
+- war forged
+	- subtypes
+		- soldier
+		- report
+			- 4 arme
+			- core besser zu erreichen
+				- core = herz des war forged
+		- scout
+			- information gathering
+			- assassination
+			- "owl" group
+		- onvoice
+		- gatherer
+		- seige
+			- ausführen & verteidigen
+	- keine konkurenz untereinander
+	- "eule"
+		- war forged
+		- nummer 93
+		- scout
+		- verantwortlich für infos im bereich grashk (mit anderen zusammen)
+		- kriegsveteran
+		- hat darius im camp getroffen
+		- eule aus dem krieg + mag tier
+			- trägt tonfigur am gürtel
+		- auf selbstverteitigung ausgelegt
+		- guter schütze
+			- pistole + bogen
+	- "status"
+		- war forged
+		- nummer 4
+		- report
+		- founding member vom camp
+		- bücher aus ruzen geklaut
+			- war dort stationiert
+		- interessiert an mekan
+			- religion nicht übernehmen
+			- religion und verehrer verändern einander
+			- hyper focus
+			- clay
+
+- kudora
+	- einziger ort an dem die dynastie interesse hat
 
 - Enya ist Barbar - path of wild magic
 	- hat noch nie probiert zu zaubern
+
+- darius kennt meisten der war forged aus recep
+
+- terim bei rede über flut extrem unsicher
+
 

@@ -45,10 +45,11 @@ Dies ist nur eine Konzeptschrift welche weiterhin ausgearbeitet wird, soll aber 
 ### Grundsätzliches
 - Alle Lebewesen haben das Recht zu existieren und ein gutes Leben zu führen. 
 - Die eigenen Rechte können nur von einem selbst eingeschränkt werden
-- Andere dürfen die eigenen Rechte nur einschränken, wenn man dem ohne Zwang zugestimmt hat, man verstanden hat, was die Einschränkung bedeutet und dies in einem Vertrag festgehalten wird.
+- Andere dürfen die eigenen Rechte nur einschränken, wenn man dem ohne Zwang zugestimmt hat, man verstanden hat, was die Einschränkung bedeutet und dies in einem Vertrag festgehalten wird. 
+- Dieser
 - Wenn man das Leben anderer einschränkt muss man diese entschädigen und gegebenenfalls zusätzlich bestraft werden.
 ### Legislative
-Die Legislative des Staats ist für die genauere Gesetzgebung sowie der Pflege der Beziehungen innerhalb und außerhalb des Landes zuständig.
+Die Legislative des Staats ist für die genauere Gesetzgebung sowie der Pflege der Beziehungen innerhalb und außerhalb des Landes zuständig, sofern es andere Länder gibt.
 Die Regierungen innerhalb des Landes sind föderal voneinander abhängig. An höchster Stelle steht das Land, danach folgen Städte, Dörfer und jede weitere Unterteilung, soweit dies gewünscht und sinnvoll ist.
 Jede Ebene mischt sich ausschließlich in den eigenen Wirkungsbereich ein, die Gesetzgebung einer Stadt ist also nur für den Wirkungskreis der Stadt, nicht darüber hinaus, gleichzeitig aber auch für den gesamten Wirkungsbereich und nicht für einzelne Gebiete einer anderen Gesetzgebung. Eine übergreifende Zusammenarbeit ist gestattet und gewollt.
 #### Landesebene
