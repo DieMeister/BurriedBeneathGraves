@@ -1,27 +1,34 @@
-- [ ] create an NPC that is already convinced by [[Darius|Darius's]] ideology
-- [ ] NPC mit grundlegend anderer Vorstellung aber müssen zusammenarbeiten
-- [ ] create clear ideology for [[Darius]]
-- [ ] NPC who's politically different but [[Darius]] respects
-- [x] Character i want to meet
-- [ ] get information from [[Session 0]] (02:27:00)
-- [ ] cut [[Session 0]]
-- [ ] cut [[Sessions/Transcripts/Session 1|Session 1]] (01:26:01)
-- [ ] transcribe [[Sessions/Summaries/Session 1|Session 1]] (12:12)
-- [ ] copy information from [[Sessions/Summaries/Session 1|Session 1]] to their corresponding file
-- [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von
-- [x] Blogpost wie [[Darius|Darius']] Nacht bei [[Terim]] war
-- [x] Ziel von [[Darius]] ausarbeiten
-- [ ] start page with general infos
-- [ ] page for sciences (astronomy)
-- [ ] add Links in Summary
-- [ ] cut [[Session 2]] (58:47)
-- [ ] get information out of [[Session 2]]
-- [ ] transcribe [[Session 2]]
-- [x] spells in character sheet übertragen 
-- [ ] cut [[Session 3]] (05:32)
-- [ ] get information out of [[Session 3]]
-- [ ] transcribe [[Session 3]]
-- [ ] cut [[Session 4]] (25:45)
-- [ ] get information out of [[Session 4]]
-- [ ] transcribe [[Session 4]]
-- [ ] summarize [[Session 4]]
+# Sessions
+
+## cut Session
+- [ ] [[Session 0]] (Sky)
+- [ ] [[Session 1|Session 1]] (01:26:01)
+- [ ] [[Session 2]] (58:47)
+- [ ] [[Session 3]] (05:32)
+- [ ] [[Session 4]] (02:18:49)
+
+## summarize Session
+- [x] [[Session 1|Session 1]]
+- [ ] [[Session 2]]
+- [ ] [[Session 3]]
+- [ ] [[Session 4]]
+## add Links to Summaries
+- [ ] [[Session 1]]
+- [ ] [[Session 2]]
+- [ ] [[Session 3]]
+- [ ] [[Session 4]]
+## get Information
+- [ ] [[Session 0]]
+- [ ] [[Session 1|Session 1]]
+- [ ] [[Session 2]]
+- [ ] [[Session 3]]
+- [ ] [[Session 4]]
+# World Building
+- [ ] clear ideology for [[Darius]]
+- [ ] create NPC that is already convinced by [[Darius|Darius's]] ideology
+- [ ] NPC mit grundlegend anderer Vorstellung als [[Darius]], die aber zusammenarbeiten müssen, erstellen
+- [ ] create NPC who's politically different but [[Darius]] respects
+- [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von erstellen
+# Obsidian
+- [ ] create start page with general infos
+- [ ] create page for sciences (astronomy)
