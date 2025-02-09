@@ -34,3 +34,6 @@
 	- ehemaliges militär camp
 	- westlich ichor loch
 
+- Enya ist Barbar - path of wild magic
+	- hat noch nie probiert zu zaubern
+

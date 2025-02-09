@@ -1,10 +1,10 @@
 {
-    "charcter_name": "Darius",
+    "character_name": "Darius",
     "hintergrund": "Scharlatan",
     "volk": "Firboig",
     "klasse": "Barde",
     "unterklasse": "College of Whispers",
-    "level": 1,
+    "level": 2,
     "combat": {
         "initiative": 0,
         "bewegungsrate": "9m",
@@ -18,7 +18,7 @@
         },
         "trefferwürfel": {
             "verwendet": 0,
-            "maximal": 1
+            "maximal": "128+3"
         },
         "todesrettung": {
             "erfolg": 0,

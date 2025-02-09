@@ -14,7 +14,14 @@
 - [ ] start page with general infos
 - [ ] page for sciences (astronomy)
 - [ ] add Links in Summary
-- [ ] cut [[Session 2]] (09:30)
+- [ ] cut [[Session 2]] (58:47)
 - [ ] get information out of [[Session 2]]
 - [ ] transcribe [[Session 2]]
-- [x] spells in character sheet übertragen
+- [x] spells in character sheet übertragen 
+- [ ] cut [[Session 3]] (05:32)
+- [ ] get information out of [[Session 3]]
+- [ ] transcribe [[Session 3]]
+- [ ] cut [[Session 4]] (25:45)
+- [ ] get information out of [[Session 4]]
+- [ ] transcribe [[Session 4]]
+- [ ] summarize [[Session 4]]

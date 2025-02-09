@@ -1,0 +1,1 @@
+Die #Stadt [[Kiranit]] ist nach [[Kirnstein]] benannt.
