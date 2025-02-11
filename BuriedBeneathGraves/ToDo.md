@@ -23,14 +23,19 @@
 - [ ] [[Session 2]]
 - [ ] [[Session 3]]
 - [ ] [[Session 4]]
-# World Building
+# DnD
+## World Building
 - [ ] clear ideology for [[Darius]]
 - [ ] create NPC that is already convinced by [[Darius|Darius's]] ideology
 - [ ] NPC mit grundlegend anderer Vorstellung als [[Darius]], die aber zusammenarbeiten müssen, erstellen
 - [ ] create NPC who's politically different but [[Darius]] respects
 - [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von erstellen
 - [ ] ausarbeiten was [[Darius]] nach Zeit in [[Verekir]] gemacht hat ([[Camp Recep]])
+## General
+- [ ] add Backgrounds
+- [ ] add Classes
+- [ ] add Spells
+- [x] add Races
 # Obsidian
 - [x] create start page with general infos
-- [x] create page for sciences (astronomy)
 - [ ] Infos von [[Notes]] in entsprechende Dateien übertragen
