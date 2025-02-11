@@ -29,6 +29,8 @@
 - [ ] NPC mit grundlegend anderer Vorstellung als [[Darius]], die aber zusammenarbeiten müssen, erstellen
 - [ ] create NPC who's politically different but [[Darius]] respects
 - [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von erstellen
+- [ ] ausarbeiten was [[Darius]] nach Zeit in [[Verekir]] gemacht hat ([[Camp Recep]])
 # Obsidian
-- [ ] create start page with general infos
-- [ ] create page for sciences (astronomy)
+- [x] create start page with general infos
+- [x] create page for sciences (astronomy)
+- [ ] Infos von [[Notes]] in entsprechende Dateien übertragen

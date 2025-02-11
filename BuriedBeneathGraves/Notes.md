@@ -3,61 +3,14 @@
 - von verekir nach grashk laufen ca. 1 woche
 
 
-- sonne geht norden auf, im süden unter, über westen
-- zwei monde
-	- einer immer hinter anderem nicht sichtbar
-- 1 tag 28 stunden
-- erde ist rund
-- 5 jahreszeiten
-	- je zwei monate
-		- können untecshiedlich lang sein, ja nachdem wann die phase dreht
-	- je eine mondphase
-		- mondphasen innerhalb des jahres unterschiedlich, pro jahr aber gleich
-	- jahreszeiten
-		- wither
-		- stagnation
-		- bloom
-		- blossom
-		- (noch unklar)
-- meluzan kalendar
-	- basiert auf zusammenschluss der adelsfamilien
-	- 763 nach meluzan
-- askharash kalender
-	- für eingenommene städte
-	- beginnt mit machtübernahme in karaxan
-	- 29 nach Askarash
-	- übernommen in verekir, kraxan, grashk, ruzen
 
-
-
-- war forge camp zwischen verekir und karaxan
-	- ehemaliges militär camp
-	- lange verlassen
-		- schon vor kriegsende
-		- 2 zwerge dort angesiedelt
-			- kommen aus kudora
-		- leben mit war forged zusammen
-	- zwischen karaxan, verekir & grashk
-	- heißt camp recep
-	- ca. 200 war forged
-	- leben in zelten
-	- nummern und namen als namen
-		- nummern in military 
-		- namen im "privaten"
-		- niemand hat nummer 1
-		- aufsteigend nach beitrittszeitpunkt
-	-  basically cult
-	- geld für alle genutzt
-	- wollen unabhängig sein
-	- kämpfen für rechte anderer war forged
-	- stehen gegen alle, die war forged als besitzt betrachten
+- camp recep
 	- culture
 		- shooting contests
 		- repair circles
 		- religious circles
 			- manche lehnen religion ab
 			- manchen verehren verin (erschaffer der war forged)
-		- communal barracks 
 		- gemeinschaftszelte
 			- konfrontation
 			- auseinandersetzungen
@@ -66,7 +19,6 @@
 			- verbindung zu golems?
 		- political contact & studies
 			- gut  mit kudora
-	- kein leader
 - war forged
 	- subtypes
 		- soldier
@@ -83,18 +35,8 @@
 		- seige
 			- ausführen & verteidigen
 	- keine konkurenz untereinander
-	- "eule"
-		- war forged
-		- nummer 93
-		- scout
-		- verantwortlich für infos im bereich grashk (mit anderen zusammen)
-		- kriegsveteran
+	- 93
 		- hat darius im camp getroffen
-		- eule aus dem krieg + mag tier
-			- trägt tonfigur am gürtel
-		- auf selbstverteitigung ausgelegt
-		- guter schütze
-			- pistole + bogen
 	- "status"
 		- war forged
 		- nummer 4
@@ -110,9 +52,6 @@
 
 - kudora
 	- einziger ort an dem die dynastie interesse hat
-
-- Enya ist Barbar - path of wild magic
-	- hat noch nie probiert zu zaubern
 
 - darius kennt meisten der war forged aus recep
 
