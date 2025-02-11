@@ -5,7 +5,7 @@
 - [ ] [[Session 1|Session 1]] (01:26:01)
 - [ ] [[Session 2]] (58:47)
 - [ ] [[Session 3]] (05:32)
-- [x] [[Session 4]] (02:18:49)
+- [x] [[Session 4]] (02:23:05)
 
 ## summarize Session
 - [x] [[Session 1|Session 1]]
