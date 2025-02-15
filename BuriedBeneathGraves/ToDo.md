@@ -22,7 +22,7 @@
 - [ ] [[Session 1|Session 1]]
 - [ ] [[Session 2]]
 - [ ] [[Session 3]]
-- [ ] [[Session 4]]
+- [ ] [[Session 4]] (01:40:44)
 # DnD
 ## World Building
 - [ ] clear ideology for [[Darius]]
@@ -39,3 +39,7 @@
 # Obsidian
 - [x] create start page with general infos
 - [ ] Infos von [[Notes]] in entsprechende Dateien übertragen
+- [ ] Keywords abarbeiten
+- [ ] WENN ERLAUBT: neue map hinzufügen
+# General
+- [ ] Anarchie verstehen
