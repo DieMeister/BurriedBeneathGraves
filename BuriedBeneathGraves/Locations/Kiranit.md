@@ -1,1 +1,1 @@
-Die #Stadt [[Kiranit]] ist nach [[Kirnstein]] benannt.
+Die #Stadt [[Kiranit]] ist nach [[Kinstein]] benannt.
