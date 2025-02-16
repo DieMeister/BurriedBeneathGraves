@@ -7,6 +7,13 @@
 - [ ] [[Session 3]] (05:32)
 - [x] [[Session 4]] (02:23:05)
 
+## get Information
+- [ ] [[Session 0]]
+- [ ] [[Session 1|Session 1]]
+- [ ] [[Session 2]]
+- [ ] [[Session 3]]
+- [x] [[Session 4]] (02:23:05)
+
 ## summarize Session
 - [x] [[Session 1|Session 1]]
 - [ ] [[Session 2]]
@@ -17,12 +24,6 @@
 - [ ] [[Session 2]]
 - [ ] [[Session 3]]
 - [ ] [[Session 4]]
-## get Information
-- [ ] [[Session 0]]
-- [ ] [[Session 1|Session 1]]
-- [ ] [[Session 2]]
-- [ ] [[Session 3]]
-- [ ] [[Session 4]] (01:40:44)
 # DnD
 ## World Building
 - [ ] clear ideology for [[Darius]]

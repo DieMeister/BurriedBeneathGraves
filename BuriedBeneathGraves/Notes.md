@@ -1,16 +1,20 @@
 - sehr unterschiedliche strömungen wie es nach dem krieg weitergehen soll
 - schienennetzt wird gebaut
-- von verekir nach grashk laufen ca. 1 woche
-
+- von verekir nach grashk laufen ca. 3-4 wochen
+	- 1 seite vom hexagon = 1 woche auf befestigter straße
 
 
 - camp recep
+	- Existenz wird durch hören-sagen verbreitet
+		- viele Kontakte 
+	- zugang zu kreide
 	- culture
+		- nummern-zeremonie
 		- shooting contests
 		- repair circles
 		- religious circles
 			- manche lehnen religion ab
-			- manchen verehren verin (erschaffer der war forged)
+			- manchen verehren Verin (Erschafferin der war forged)
 		- gemeinschaftszelte
 			- konfrontation
 			- auseinandersetzungen
@@ -18,23 +22,11 @@
 			- study own anatomy
 			- verbindung zu golems?
 		- political contact & studies
-			- gut  mit kudora
-- war forged
-	- subtypes
-		- soldier
-		- report
-			- 4 arme
-			- core besser zu erreichen
-				- core = herz des war forged
-		- scout
-			- information gathering
-			- assassination
-			- "owl" group
-		- onvoice
-		- gatherer
-		- seige
-			- ausführen & verteidigen
-	- keine konkurenz untereinander
+			- Gemeinsamkeiten mit kudora
+			- neutral bis positive Beziehungen
+	- FIXME: etwa 5 neue im Monat
+	- momentan 211 in camp
+	- zwerge haben nummer 2 & 3
 	- 93
 		- hat darius im camp getroffen
 	- "status"
@@ -49,12 +41,92 @@
 			- religion und verehrer verändern einander
 			- hyper focus
 			- clay
+	- nummer 5
+		- resource collector
+		- war in ruzen stationiert
+			- teil von aufräumtrupp nach der Wiedereinnahme
+		- hat die founding members zusammengeführt
+			- grundidee eines unabhängigen camps
+	- Nummer 6
+		- envoy
+		- verschwunden
+			- vielleicht tot
+		- camp als ort zum niederlassen rausgesucht
+			- kannte ort von scouting mission
+				- gegnerische stellungen im osten auskundschaften
+				- trupp hieß Rabe
+	- Nummer 7
+		- scout
+		- teil von trupp rabe
+		- startet warforged studies und wissenschaften generell
+			- hat mit dem auseinanderbauen von waffen begonnen
+	- Nummer 79
+		- Siege
+		- gute Verteidigungsplanung
+		- mit 80 gekommen
+			- sind befreundet
+	- Nummer 80
+		- Soldat
+		- mit 79 gekommen
+			- sind befreundet
+		- hat nach dem Krieg schreiben gelernt
+		- extrem organisiert
+		- zuständig für einteilung der warforged in "schichten"
+		- zuständig für zeitliche verteilung der auseinandersetzungen damit alle teilhaben können
 
 - kudora
 	- einziger ort an dem die dynastie interesse hat
+	- Rätediktatur
+	- Mekangesellschaft
 
 - darius kennt meisten der war forged aus recep
-
+	- nummer 157
+	- war nicht am stück da
 - terim bei rede über flut extrem unsicher
 
-
+- warforged
+	- soldat
+		- "Bursche"
+		- Nummer 177
+			- nicht komplett überzeugter anarchist
+			- nicht reparierbarer schaden
+				- angewiesen auf war forged studies
+				- kann nicht schießen
+			- kein fokus auf politik
+			- weapon enthusiast
+			- hilft bei organisation von Schießwettbewerben
+			- post traumatische belastungsstörung
+		- Kudora und mekan fan
+		- oft in lehmkursen
+	- envoy
+		- Nummer 32
+		- "Schlüssel"
+		- überzeugter (hard core) anarchist
+		- politisch interessiert
+		- gegen Mekan
+			- weitere Form der Selbstunterdrückung
+			- "no gods no masters"
+		- begeistert von encryption
+			- entwickelt neue verschlüsselungen
+			- führte entschlüsselte nachrichten ein
+		- bringt warforged lesen & schreiben bei
+	- report
+		- Nummer 212
+		- "Stützig"
+		- autoritär
+			- will selbst Führung des camps übernehmen
+	- spitznamen teilweise schon aus krieg
+		- werden dann weiter benutzt
+	- gatherer
+		- 4 meter groß
+		- subtypes gatherer
+			- corps collector
+				- spikes um leichen zu transportieren
+			- resource collector
+	- siege
+		- ca 2 meter groß
+		- breit
+	- envoy
+		- etwas kleiner als soldat
+	- soldat
+		- ca 1,80 meter

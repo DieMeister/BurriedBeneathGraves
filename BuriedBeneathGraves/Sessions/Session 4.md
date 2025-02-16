@@ -257,4 +257,97 @@
 		- sagen Prashtir nicht, warum sie da sind
 		- Prashtir war nicht zurück beim Leuchtturm
 		- Prashtir geht richtung zentrum
-	- 
+	- Kem und Darius gehen um die Kirche herum auf den Friedhof
+		- Nuriel schluchzt und röchelt
+		- sie fragen was los ist
+		- Nuriel hat schwierigkeiten beim Sprechen
+			- Nuriel erwähnt Axtkopf
+			- Symbol von Sekrah in Kirche wird erwähnt
+				- am Altar und an Wand mit Blut geschrieben
+		- Kirche wirkt verlassen
+		- Darius geht vorsichtig in Kirche
+			- Enya wird vorher auf dem Boden abgelegt
+			- Zeichen mit neuem Blut nachgemalt und mit Klinge in Stein
+	- beim Leichenmarsch wird Blut entzogen
+		- wie bei Nuriel
+	- Nuriel streckt Hand nach Enya aus
+	- Kem trägt Dolch normalerweise versteckt am Gürtel
+	- Nuriel fragt nach Klinge
+		- kriecht Richtung Enya
+	- Darius kommt wieder aus Kirche
+	- Nuriel sagt, Enya solle leben
+		- Kem und Darius sind etwas verunsichert ob Nuriel weiß, was sie tut
+	- Nuriel verlangt Herz von Enya
+		- gibt Klinge an Darius
+		- Darius zieht Enyas Kleidung von ihrem Oberkörper
+		- Enyas Rippen sind komplett gebrochen
+		- Darius schneidet Herz aus Enyas Brust und hält es fragend Nuriel hin
+	- Nuriel nimmt Herz und fragt wieder nach Klinge
+		- legt sich auf Enya drauf
+		- schneidet eigenen Körper auf
+		- Innereien fließen von Nuriels in Enyas Körper
+		- verlangt Herz von Darius
+		- Innereien lösen sich zu dickflüssigen Masse in Enyas Körper
+		- trinkt komplettes Blut von Enyas Herz
+		- legt Herz wieder in Enyas Brust
+		- sticht sich Messer in die Kehle
+			- fällt tot zu Boden
+		- graue Masse formt sich zu neuen Blutgefäßen
+		- Herz beginnt wieder zu schlagen
+		- Rippen wachsen zusammen
+		- Herz weiterhin sichtbar
+	- Enya wacht auf
+		- sehr aufgeregt/verstört
+	- Darius zieht Nuriels Leiche von Enya runter
+	- Darius und Kem versuchen Enya zu beruhigen
+		- glückt nur so halb
+		- entscheiden Enya braucht etwas Zeit für sich
+		- erzählen kurz was passiert ist
+	- Darius holt Schaufel aus Kirche
+		- stand in der Nähe der Tür
+	- Darius öffnet Nuriels Grab
+		- Kem holt Nuriels Leiche
+		- kein Sarg im Grab
+		- Nuriels Leiche wird ins Grab gelegt
+		- Darius hält Grabrede
+		- Darius schließt Grab
+		- Enyas Attitüde kehrt zurück
+- Kem, Darius und Enya gehen zu Terim
+	- gehen zum Hintereingang
+	- Enya noch recht hysterisch
+	- Kem probiert Schloss zu knacken
+	- Darius klopft während Kem noch mit dem Schloss beschäftigt ist
+	- Inneres des Hauses sehr verraucht
+	- Terim will sie wegschicken
+	- Kem klopft nochmal mit Prothese
+	- Enya raged und zerstört die Tür
+		- Tür fliegt aus den Angeln
+		- Tür flieht durch den halben Flur
+		- zerschmettert an der gegenüberliegenden Wand
+	- Terim überrascht dass sie leben
+		- Iskra meinte sie seien tot
+	- Kem schlägt Terim
+		- Zigarre fällt auf den Boden
+	- Darius fragt Terim, was er erzählt hat
+		- Terim vertraut Iskra
+		- sie hätten sich geopfert damit Iskra den Fluch brechen kann
+			- Iskra hätte Schutz gebraucht um Ritual durchzuführen
+		- Iskra hat roten Kristall gezeigt, in dem Fluch sein soll
+			- Fluch ist nicht gebrochen sondern nur gefangen
+		- Enya erfährt die Stadt ist zerstört
+		- Iskra will zu Orden um den Fluch dort sicherzustellen
+	- Darius erzählt was tatsächlich passiert ist
+	- Kem schlägt Terim nochmal ins Gesicht
+		- mindestens blaues Auge
+	- Iskra ist nicht mehr in Stadt
+	- Terim ist hoch verschuldet
+		- Haus gehört Rechner
+	- Darius überzeugt Terim als Flutbeobachter/Bürgermeister zurückzutreten
+		- neues System soll eingeführt werden
+		- Bürgermeisterwahlen sollen schnellstmöglich abgehalten werden
+		- Kem und Enya wollen nicht über Politik reden
+		- Terim sehr eingeschüchtert von Kem
+		- Terim soll möglichst bald seine Fehlinformationen revidieren und zurücktreten
+	- Terim gibt den MeanGirls 60GM
+		- mehr hat er nicht
+	- MeanGirls gehen durch Vordertür raus
