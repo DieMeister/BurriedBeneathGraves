@@ -19,7 +19,7 @@
 - [ ] [[Session 2]]
 - [ ] [[Session 3]]
 - [ ] [[Session 4]]
-## add Links to Summaries
+## add Links to Summary
 - [x] [[Session 1]]
 - [ ] [[Session 2]]
 - [ ] [[Session 3]]

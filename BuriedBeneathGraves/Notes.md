@@ -1,3 +1,6 @@
+- kaum ein Jahr her seit Ashkarash gefallen ist
+	- Narben noch spürbar
+	- Ungewissheit
 - sehr unterschiedliche strömungen wie es nach dem krieg weitergehen soll
 - schienennetzt wird gebaut
 - von verekir nach grashk laufen ca. 3-4 wochen
@@ -132,9 +135,6 @@
 # Session 4
 - terim bei rede über flut extrem unsicher
 
-- kaum ein Jahr her seit Ashkarash gefallen ist
-	- Narben noch spürbar
-	- Ungewissheit
 - in Höhle
 	- Beginnen 1 Tagesmarsch von Grashk entfernt
 	- Steine fallen von Decke
@@ -295,6 +295,7 @@
 				- bleibt weiter unentdeckt
 				- Kem kann genaue Intention nicht erkennen
 					- erkennt, dass War Forged nicht angreifen will
+
 			- Kem & Warforged ca. 100 Meter entfernt
 			- Warforged & Darius ca. 200 Meter entfernt
 			- Kem macht sich bemerkbar
