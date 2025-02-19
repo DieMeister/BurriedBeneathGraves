@@ -87,36 +87,6 @@
 	- nummer 157
 	- war nicht am stück da
 # warforged
-- soldat
-	- "Bursche"
-	- Nummer 177
-		- nicht komplett überzeugter anarchist
-		- nicht reparierbarer schaden
-			- angewiesen auf war forged studies
-			- kann nicht schießen
-		- kein fokus auf politik
-		- weapon enthusiast
-		- hilft bei organisation von Schießwettbewerben
-		- post traumatische belastungsstörung
-	- Kudora und mekan fan
-	- oft in lehmkursen
-- envoy
-	- Nummer 32
-	- "Schlüssel"
-	- überzeugter (hard core) anarchist
-	- politisch interessiert
-	- gegen Mekan
-		- weitere Form der Selbstunterdrückung
-		- "no gods no masters"
-	- begeistert von encryption
-		- entwickelt neue verschlüsselungen
-		- führte entschlüsselte nachrichten ein
-	- bringt warforged lesen & schreiben bei
-- report
-	- Nummer 212
-	- "Stützig"
-	- autoritär
-		- will selbst Führung des camps übernehmen
 - spitznamen teilweise schon aus krieg
 	- werden dann weiter benutzt
 - gatherer
@@ -132,281 +102,139 @@
 	- etwas kleiner als soldat
 - soldat
 	- ca 1,80 meter
+## NPCs
+### 177
+- soldat
+- "Bursche"
+- nicht komplett überzeugter anarchist
+- nicht reparierbarer schaden
+	- angewiesen auf war forged studies
+	- kann nicht schießen
+- kein fokus auf politik
+- weapon enthusiast
+- hilft bei organisation von Schießwettbewerben
+- post traumatische belastungsstörung
+- Kudora und mekan fan
+- oft in lehmkursen
+### 32
+- envoy
+- "Schlüssel"
+- überzeugter (hard core) anarchist
+- politisch interessiert
+- gegen Mekan
+	- weitere Form der Selbstunterdrückung
+	- "no gods no masters"
+- begeistert von encryption
+	- entwickelt neue verschlüsselungen
+	- führte entschlüsselte nachrichten ein
+- bringt warforged lesen & schreiben bei
+### 212
+- report
+- "Stützig"
+- autoritär
+	- will selbst Führung des camps übernehmen
 # Session 4
-- terim bei rede über flut extrem unsicher
-
-- in Höhle
-	- Beginnen 1 Tagesmarsch von Grashk entfernt
-	- Steine fallen von Decke
-	- Leiche des Priesters liegt vor uns
-	- stehen auf Podest
-		- Treppe führt hoch zu Podest
-			- Stufen einzeln in Wand 
-			- Lücke zwischen Stufen
-	- Sintflut aus Höhle geschossen
-		- kein Wasser in Höhle
-			- auch keine Wasserfälle an den Wänden
-		- alleine in Höhle
-		- keine weiteren Ausgänge als Gang durch den sie gekommen sind
-	- oben an Treppe liegen
-		- Priester
-			- hält noch Stab
-				- leicht gräulich
-				- Knochen
-				- Oktopus mit Stein im Kopf oben dran
-				- Stil des Axtkopfes
-		- Würfel
-			- metallener, lilaner Schimmer
-			- lässt sich nicht drehen
-	- Darius holt Würfel und Kuo-Toa Stab
-	- Treppe dabei zusammenzubrechen
-	- Enya rennt Treppe halb runter
-		- Stufe bricht unter ihr weg, kann sich aber fangen
-	- Kem schafft es auch über Stufe
-		- hält sich an Enyas Fuß und Schwanz fest und kann sich hochziehen
-	- etwa 2/3 der Treppe noch vorhanden
-		- meister Teil unten vorhanden
-		- Beben oben stärker
-		- Höhle bröckelt von oben nach unten
-	- Darius
-		- etwa 80 Meter bis Boden
-		- Sieht Tentakel um Säule gewickelt
-			- "festgefroren" wie in Schockstarre
-			- 20 Meter tiefer
-			- direkt unter Darius
-		- schießt Pfeil mit Seil in Tentakel
-			- springt zeitgleich von Treppe
-			- trifft Tentakel
-			- Armbrust fällt runter und geht kaputt
-			- Bolzen bricht
-				- Darius fällt rest runter
-				- 7 Wuchtschaden (noch 9)
-				- Narbe bleibt
-	- Treppe nach oben fast komplett zerstört
-	- Treppe nach unten auch nicht mehr gut
-	- Decke bröckelt immer mehr
-	- Enya
-		- etwa 20 Meter über Boden
-		- lässt Seil runter
-			- Kem hangelt an Seil runter
-				- Enya fällt vor Anstrengung fast runter
-				- Stein fällt richtung Kem
-				- Kem lässt Seil los und kann Stein ausweichen
-				- Kem landet auf Boden
-					- nimmt 8 Wuchtschaden (noch 1)
-		- bindet Seil im Stufe
-			- seilt sich ab
-			- Stufe wird von herabfallendem Stein rausgebrochen
-			- fällt zu Boden
-				- 5 Wuchtschaden (noch 3)
-	- Darius
-		- schafft es aus Höhle zu laufen
-			- kann Tentakel, die Bein greifen will, auszuweichen
-	- Enya
-		- zieht Kem hoch
-		- rennt richtung ausgang
-		- bemerkt herabfallenden Stein nicht (Tennisball groß)
-			- 4 Wuchtschaden (noch 0)
-	- Decke stark zusammengebrochen
-		- Licht kommt in die Höhle
-	- Kem
-		- zieht Enya mit
-			- hinkt bisschen
-		- Decke stürzt hinter ihm ein
-		- schließen zu Darius auf
-	- stehen am Eingang des Tunnels nach draußen
-	- Darius
-		- hört Wasser mit großer Geschwindigkeit auf sie zukommen
-		- hilft Enya zu tragen
-			- je einen Arm über Schulter
-		- rennen schnellstmöglich in den Gang
-			- schaffen ein paar 100 Meter
-			- Kem hält Darius zurück (geschwindigkeit)
-	- Wasserwelle erfüllt kompletten Gang
-		- kommt entgegen
-	- Kem
-		- versucht Schwert in Boden zu rammen ohne vorher den Boden zu untersuchen
-	- Enya
-		- Enya sagt Darius, dass der Stab vielleicht vor Wasser schützt
-	- Darius
-		- hält Stab vor sich
-	- Enya und Kem hinter Darius
-	- Darius und Kem atmen tief ein
-	- Enya
-		- raged
-		- versucht sich im Boden festzuhalten (+1 exhaustion)
-	- Flut erreicht die 3
-		- Zepter hilft nicht
-		- Kems Schwert kann sich nicht im Boden halten, findet aber nichts
-		- Enya kann sich kurz halten, wird aber 2 Sekunden später auch mitgerissen
-	- sie ertrinken nicht
-	- Kem verliert Schwert
-	- Flut trägt sie durch ganze Höhle
-		- knallen gegen Wände; hoher Wasserdruck
-		- Wasser füllt komplette Höhle aus
-		- Decke der Höhle weiter eingebrochen
-		- Gegenstände aus Loch werden versenkt
-			- Enyas Ring immer noch im loch
-		- knallen gegen hintere Wand
-		- werden mit Welle durch das Loch in der Decke getragen
-	- werden ohnmächtig
-- Klippe
-	- Kem & Darius wachen auf Wiese auf einer Klippe wieder auf
-		- riesiges Loch in der Wiese wo Höhle drunter ist
-	- Enya atmet nicht
-		- Darius kann bestätigen, dass Enya tot ist
-	- Kem schaut von Klippe runter
-		- Meer ist eine tobende Flut
-		- Grashk in der Ferne erkennbar
-			- keine Details erkennbar
-	- unklar wo Iskra ist
-		- wird in Grashk vermutet
-	- schmieden Plan Nuriel zu fragen, ob Enya wiederbelebt werden kann
-	- short rest
-		- Kem heilt 14 HP (=15)
-		- Darius heilt 7 HP (=16)
-		- Darius hält Grabrede zu Ehren Enyas
-- Weg nach Gashk
-	- Untergrund wechselt zwischen Wiese, Stein und Wald
-	- kurz vor Sonnenaufgang
-		- Kem und Darius nehmen Enya mit
-		- nachdenkliches / betretenes Schweigen
-			- beiden brauchen Zeit für sich
-	- früher Mittag / später Vormittag
-		- Sonne scheint früher als in Grashk
-		- etwa hälfte der Strecke gelaufen
-		- Kem schaut über Klippe nach Grashk
-			- Grashk sieht kleienr aus
-			- Trockenhafen nicht erkennbar
-			- Schiffe wurden in Stadt gespült
-			- Wasser tobt weiterhin
-				- starke Strömung
-			- Details wie einzelne Gebäude nicht erkennbar
-		- Darius bemerkt, dass sie verfolgt werden
-			- Verfolger nicht direkt hinter ihnen sondern folgt Fährte
-			- wenn sie auf Stein, in einem kleinen Waldstück sind sind:
-				- Kem versteckt sich hinter einem Felsen
-				- Darius läuft weiter als sein nichts gewesen
-			- Kem sieht War Forged in zerzaustem Kaputzenumhang
-				- trägt Dolch
-				- schleicht / kriecht über Boden und liest Fährte
-			- Kem folgt Kriegsmaschine
-				- bemerkt, dass War Forge gemerkt hat, dass sich Fährte verändert hat
-				- bleibt weiter unentdeckt
-				- Kem kann genaue Intention nicht erkennen
-					- erkennt, dass War Forged nicht angreifen will
-			- Kem & Warforged ca. 100 Meter entfernt
-			- Warforged & Darius ca. 200 Meter entfernt
-			- Kem macht sich bemerkbar
-				- Warforged bleibt stehen und dreht sich um
-				- schaut ihn "wenn du was machst mach ich was" an
-				- WF fragt was bei der Höhle passiert ist
-				- Kem entschuldigt und verteidigt was passiert ist (kein guter redner)
-					- keine präsentation von Macht
-				- WF hakt immer weiter nach
-				- WF kommt nicht aus Grashk
-				- WF heißt 93
-				- 93 fragt spezifisch nach Darius
-					- als Kem bestätigt dass Darius Darius ist entspannt er
-		- Darius kommt zu den beiden als er merkt dass sie nicht kämpfen
-			- Darius erkennt 93
-			- 93 muss für die Sicherheit in der Gegend garantieren
-			- Darius kann 93 überzeugen, dass durch sie keine Gefahr ausgeht
-			- Darius erzählt von Iskra und den Geschehnissen in der Höhle
-				- 93 ist nicht beunruhigt weil Iskra nur 1 Amulet hat
-					- Großteil der Amulette verloren oder zerstört
-					- bekannte Amulette sicher aufbewahrt 
-						- 93 kennt 3
-					- Amulette erkennbar an Farbe
-					- man darf in ihrer umgebung nicht sterben
-			- 93 fragt ob jemand das Amulet gehalten hat oder Enya in der Nähe gestorben ist
-			- 93 versichert, "sie" seinen vorbereitet wenn Iskra zu ihnen käme
-		- 93 begleitet Kem und Darius nach Grashk
-			- 93 trägt Enya
-- später Nachmittag
-	- Ankunft in Grashk
-	- Kem und Darius sehr erschöpft
-	- Stadt komplett zerstört
-		- im Zentrum steht ein Schiff
-		- Bevölkerung in Aufruhe
-	- 93 verlässt die beiden
-		- geht Richtung verlorener Distrikt
-	- Zerstörung nimmt Richtung Trockenhafen zu
+## Terim
+- Terim bei rede über Flut extrem unsicher
+## Höhle
+- 1 Tagesmarsch von Grashk entfernt
+- Treppe führt hoch zu Podest
+	- etwa 80 Meter hoch
+	- Stufen einzeln in Wand 
+	- Lücke zwischen Stufen
+- keine weiteren Ausgänge als Gang durch den sie gekommen sind
+### nach Einsturz
+- Loch in Decke
+- Wasser füllt komplette Höhle aus
+	- Gegenstände aus Loch werden versenkt
+## Kuo-Toa Priester
+- auf Podest in Höhle gestorben
+## Kuo-Toa Stab
+- leicht gräulich
+- Knochen
+- Oktopus mit Stein im Kopf oben dran
+- Stil des Axtkopfes
+## Würfel
+- metallener, lilaner Schimmer
+- lässt sich nicht drehen
+## Klippe
+- riesiges Loch in der Wiese wo Höhle drunter ist
+## Meer
+- tobende Flut
+- starke Strömung
+## Iskra
+- Aufenthaltsort unklar
+## Gelände zwischen Grashk und Klippe
+- Untergrund wechselt zwischen Wiese, Stein und Wald
+- Sonne scheint früher als in Grashk
+## Grashk
+- teilweise stark zerstört
+	- Schiffe wurden in Stadt gespült
+	- Trockenhafen am stärksten getroffen
 		- kein Steg steht mehr
 		- einige Leichen angespült
 		- manche Schiffe weit aufs Land getragen
 		- Häuser brechen ein
 		- Leute suchen Freunde und Verwandte
-	- Iriels Laden
-		- Iriel steht vor Ruinen seines Hauses
-			- wirkt sehr abwesend
-		- Rechner nimmt Kriegsmaschinenleiche mit
-			- Iriel protestiert nicht
-		- Kem probiert Iriel zu comforten
-			- nicht besonders gut darin
-		- Darius konfrontiert Rechner
-			- Diskutieren über Besitz der Kriegsmaschine
-				- Kriegsmaschine kommt aus Utlin
-			- Darius kann sich nicht durchsetzen
-				- Rechner legt Ring ans seiner Kette auf Kriegsmaschine
-					- Kriegsmaschine wird in Kettenglied eingesogen
-					- lila Licht scheint
-		- Rechner geht
-		- Iriel durchsucht Trümmer
+## 93
+- besitzt:
+	- zerzausten Kaputzenumhang
+	- Dolch
+- kommt nicht aus Grashk
+- kennt Darius
+- ist für die Sicherheit in der Gegend um Grashk verantwortlich
+- weiß von 3 Amuletten
+## Darius
+- kennt 93
+## Amulette
+- Axtkopf ist eins
+- Großteil verloren oder zerstört
+- entfalten volle Macht nur gemeinsam
+- bekannte Amulette sicher aufbewahrt
+- erkennbar an Farbe
+- nicht möglich in ihrer Nähe zu sterben
+## Camp Recep
+- vorbereitet auf erneuten Leichenmarsch
+## Iriels Laden
+- bei Flutwelle zerstört
+## Rechners Ring
+- kann Gegenstände "einsaugen"
+	- lila Licht scheint
+
+
+
+
+
+	- 93 verlässt die beiden
+		- geht Richtung verlorener Distrikt
+
+
 	- Hornsingerbar
 		- Bar komplett zerstört
-		- Friderick durchsucht Ruine
 		- auf dem Boden liegen Kazkrah und Jadzias Rollstuhl
 			- Kazkrah ist mit einem Mantel zugedeckt
-		- Kem geht zu Rick runter
-		- Rick ist wütend auf Kem und Darius
 			- Jadzia ist tot
 				- Leiche nicht auffindbar
 				- hat immer vor Terim gewarnt
 			- Kazkrah ist tot
 			- Zuza ist nicht auffindbar
 		- Tod von Kem, Darius und Enya wurde verkündet
-		- Rick schlägt Kem
-		- Rick wütend auf Terim
 			- Terim hat Bevölkerung versammeln lassen
 				- Zerstörung Grashks als Notwendiges Opfer bezeichnet
 				- Danksagungen an Iskra im Namen Darius', Kems und Enyas
 				- Kem, Darius und Enya hätten sich für Iskra geopfert
-		- Rick wirft Darius gezwungene neutralität vor
-			- Darius snapt
-			- Darius und Rick schreien sich gegenseitig über die Schuld der MeanGirls an
-		- Darius und Kem gehen wieder
-	- Kem und Darius gehen zu Nuriel
-		- benutzten nicht die belebtesten Straßen um nicht weiter aufzufallen
-
-- früher Abend, die Sonne geht unter
 	- verlorener Distrikt halbwegs unversehrt
 		- Trockenhafen am härtesten getroffen
-	- schmerzerfülltes Heulen bei Ankunft an Kirche zu hören
 	- Prashtir sitzt auf dem Brunnen vor der Kirche
 		- schaut ins Lehre
-	- als Prashtir die Schritte bemerkt schaut sie auf
-		- kann nicht glauben, dass die beiden leben
-			- Kem poket Prashtir
-		- Terim hat gesagt sie seien tot
-		- sagen Prashtir nicht, warum sie da sind
-		- Prashtir war nicht zurück beim Leuchtturm
-		- Prashtir geht richtung zentrum
-	- Kem und Darius gehen um die Kirche herum auf den Friedhof
-		- Nuriel schluchzt und röchelt
-		- sie fragen was los ist
 		- Nuriel hat schwierigkeiten beim Sprechen
 			- Nuriel erwähnt Axtkopf
 			- Symbol von Sekrah in Kirche wird erwähnt
 				- am Altar und an Wand mit Blut geschrieben
-		- Kirche wirkt verlassen
-		- Darius geht vorsichtig in Kirche
-			- Enya wird vorher auf dem Boden abgelegt
 			- Zeichen mit neuem Blut nachgemalt und mit Klinge in Stein
 	- beim Leichenmarsch wird Blut entzogen
 		- wie bei Nuriel
 	- Nuriel streckt Hand nach Enya aus
-	- Kem trägt Dolch normalerweise versteckt am Gürtel
 	- Nuriel fragt nach Klinge
 		- kriecht Richtung Enya
 	- Darius kommt wieder aus Kirche

@@ -18,7 +18,7 @@
 - [x] [[Session 1|Session 1]]
 - [ ] [[Session 2]]
 - [ ] [[Session 3]]
-- [ ] [[Session 4]]
+- [x] [[Session 4]]
 ## add Links to Summary
 - [x] [[Session 1]]
 - [ ] [[Session 2]]
