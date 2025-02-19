@@ -295,7 +295,6 @@
 				- bleibt weiter unentdeckt
 				- Kem kann genaue Intention nicht erkennen
 					- erkennt, dass War Forged nicht angreifen will
-
 			- Kem & Warforged ca. 100 Meter entfernt
 			- Warforged & Darius ca. 200 Meter entfernt
 			- Kem macht sich bemerkbar
@@ -379,6 +378,7 @@
 		- Darius und Kem gehen wieder
 	- Kem und Darius gehen zu Nuriel
 		- benutzten nicht die belebtesten Straßen um nicht weiter aufzufallen
+
 - früher Abend, die Sonne geht unter
 	- verlorener Distrikt halbwegs unversehrt
 		- Trockenhafen am härtesten getroffen
