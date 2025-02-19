@@ -39,6 +39,7 @@
 - [x] add Races
 # Obsidian
 - [x] create start page with general infos
+- [ ] strukturiere [[Notes]]
 - [ ] Infos von [[Notes]] in entsprechende Dateien übertragen
 - [ ] Keywords abarbeiten
 - [ ] WENN ERLAUBT: neue map hinzufügen
