@@ -5,9 +5,9 @@
 - schienennetzt wird gebaut
 - von verekir nach grashk laufen ca. 3-4 wochen
 	- 1 seite vom hexagon = 1 woche auf befestigter straße
+# Locations
 
-
-# camp recep
+## Camp Recep
 - Existenz wird durch hören-sagen verbreitet
 	- viele Kontakte 
 - zugang zu kreide
@@ -27,16 +27,21 @@
 	- political contact & studies
 		- Gemeinsamkeiten mit kudora
 		- neutral bis positive Beziehungen
-- FIXME: etwa 5 neue im Monat
-- momentan 211 in camp
-- zwerge haben nummer 2 & 3
-- 93
-	- hat darius im camp getroffen
-- "status"
-	- war forged
-	- nummer 4
-	- report
-	- founding member vom camp
+- etwa 5 neue im Monat
+- momentan ca. 215 in camp
+- Zwerge haben Nummer 2 & 3
+
+## Kudora
+- einziger ort an dem die dynastie interesse hat
+- Rätediktatur
+- Mekangesellschaft
+
+# NPCs
+## 4
+- Warforged
+- report
+- "Status"
+- founding member von Camp Recep
 	- bücher aus ruzen geklaut
 		- war dort stationiert
 	- interessiert an mekan
@@ -44,49 +49,97 @@
 		- religion und verehrer verändern einander
 		- hyper focus
 		- clay
-- nummer 5
-	- resource collector
-	- war in ruzen stationiert
-		- teil von aufräumtrupp nach der Wiedereinnahme
+## 5
+- Warforged
+- Resource Collector
+- Teil von Camp Recep
 	- hat die founding members zusammengeführt
-		- grundidee eines unabhängigen camps
-- Nummer 6
-	- envoy
-	- verschwunden
-		- vielleicht tot
-	- camp als ort zum niederlassen rausgesucht
-		- kannte ort von scouting mission
-			- gegnerische stellungen im osten auskundschaften
-			- trupp hieß Rabe
-- Nummer 7
-	- scout
-	- teil von trupp rabe
-	- startet warforged studies und wissenschaften generell
-		- hat mit dem auseinanderbauen von waffen begonnen
-- Nummer 79
-	- Siege
-	- gute Verteidigungsplanung
-	- mit 80 gekommen
-		- sind befreundet
-- Nummer 80
-	- Soldat
-	- mit 79 gekommen
-		- sind befreundet
-	- hat nach dem Krieg schreiben gelernt
-	- extrem organisiert
-	- zuständig für einteilung der warforged in "schichten"
-	- zuständig für zeitliche verteilung der auseinandersetzungen damit alle teilhaben können
+	- Grundidee eines unabhängigen camps
+- war in Ruzen stationiert
+	- teil von Aufräumtrupp nach der Wiedereinnahme
+## 6
+- Warforged
+- Envoy
+- Teil von Camp Recep
+- verschwunden
+	- vielleicht tot
+- camp als ort zum niederlassen rausgesucht
+	- kannte ort von scouting mission
+		- gegnerische stellungen im osten auskundschaften
+		- trupp hieß Rabe
+## 7
+- Warforged
+- Scout
+- Teil von Camp Recep
+- teil von trupp rabe
+- startet warforged studies und wissenschaften generell
+	- hat mit dem auseinanderbauen von waffen begonnen
+## 32
+- Warforged
+- envoy
+- "Schlüssel"
+- teil von Camp Recep
+- überzeugter (hard core) anarchist
+- politisch interessiert
+- gegen Mekan
+	- weitere Form der Selbstunterdrückung
+	- "no gods no masters"
+- begeistert von encryption
+	- entwickelt neue verschlüsselungen
+	- führte entschlüsselte nachrichten ein
+- bringt warforged lesen & schreiben bei
+## 79
+- Warforged
+- Siege
+- Teil von Camp Recep
+- gute Verteidigungsplanung
+- mit 80 gekommen
+	- sind befreundet
+## 80
+- Warforged
+- Soldat
+- Teil von Camp Recep
+- mit 79 gekommen
+	- sind befreundet
+- hat nach dem Krieg schreiben gelernt
+- extrem organisiert
+- zuständig für einteilung der warforged in "schichten"
+- zuständig für zeitliche verteilung der auseinandersetzungen damit alle teilhaben können
+## 93
+- hat Darius im camp getroffen
 
-# kudora
-- einziger ort an dem die dynastie interesse hat
-- Rätediktatur
-- Mekangesellschaft
+## 177
+- Warforged
+- Soldat
+- "Bursche"
+- Teil von Camp Recep
+- nicht komplett überzeugter anarchist
+- nicht reparierbarer schaden
+	- angewiesen auf war forged studies
+	- kann nicht schießen
+- kein fokus auf politik
+- weapon enthusiast
+- hilft bei organisation von Schießwettbewerben
+- post traumatische Belastungsstörung
+- Kudora und Mekan fan
+- oft in Lehmkursen
 
-# darius 
+## 212
+- Warforged
+- report
+- "Stützig"
+- Teil von Camp Recep
+- autoritär
+	- will selbst Führung des camps übernehmen
+
+# Party
+
+## Darius 
 - kennt meisten der war forged aus recep
 	- nummer 157
 	- war nicht am stück da
-# warforged
+# Creatures
+## Warforged
 - spitznamen teilweise schon aus krieg
 	- werden dann weiter benutzt
 - gatherer
@@ -102,37 +155,6 @@
 	- etwas kleiner als soldat
 - soldat
 	- ca 1,80 meter
-## NPCs
-### 177
-- soldat
-- "Bursche"
-- nicht komplett überzeugter anarchist
-- nicht reparierbarer schaden
-	- angewiesen auf war forged studies
-	- kann nicht schießen
-- kein fokus auf politik
-- weapon enthusiast
-- hilft bei organisation von Schießwettbewerben
-- post traumatische belastungsstörung
-- Kudora und mekan fan
-- oft in lehmkursen
-### 32
-- envoy
-- "Schlüssel"
-- überzeugter (hard core) anarchist
-- politisch interessiert
-- gegen Mekan
-	- weitere Form der Selbstunterdrückung
-	- "no gods no masters"
-- begeistert von encryption
-	- entwickelt neue verschlüsselungen
-	- führte entschlüsselte nachrichten ein
-- bringt warforged lesen & schreiben bei
-### 212
-- report
-- "Stützig"
-- autoritär
-	- will selbst Führung des camps übernehmen
 # Session 4
 ## Terim
 - Terim bei rede über Flut extrem unsicher
@@ -176,6 +198,7 @@
 		- manche Schiffe weit aufs Land getragen
 		- Häuser brechen ein
 		- Leute suchen Freunde und Verwandte
+	- verlorener Distrikt halbwegs unversehrt
 ## 93
 - besitzt:
 	- zerzausten Kaputzenumhang
@@ -200,40 +223,39 @@
 ## Rechners Ring
 - kann Gegenstände "einsaugen"
 	- lila Licht scheint
+## Hornsingerbar
+- Bar komplett zerstört
+## Jadzia
+- tot
+- Leiche nicht auffindbar
+- hat immer vor Terim geplant
+## Kazkrah
+- tot
+## Zuza
+- nicht auffindbar
+## Die Sintflut
+- Terim hat Bevölkerung versammeln lassen
+	- Tod von Kem, Darius und Enya wurde verkündet
+	- Zerstörung Grashks als Notwendiges Opfer bezeichnet
+	- Danksagungen an Iskra im Namen Darius', Kems und Enyas
+	- Kem, Darius und Enya hätten sich für Iskra geopfert
+## Prashtir
+- Prashtir sitzt auf dem Brunnen vor der Kirche
+	- schaut ins Lehre
+## Nuriel
+- Nuriel hat Schwierigkeiten beim Sprechen
+- Zusammenhang zu Axtkopf und Zeichen in Kirche?
+- Sieht aus, als sie Opfer des Leichenmarsch
+## Kirche
+- Zeichen mit neuem Blut nachgemalt und mit Klinge in Stein
+## Leichenmarsch
+- manifestation der Kraft Sekras falls existent
+- beim Leichenmarsch wird Blut entzogen
 
 
 
 
 
-	- 93 verlässt die beiden
-		- geht Richtung verlorener Distrikt
-
-
-	- Hornsingerbar
-		- Bar komplett zerstört
-		- auf dem Boden liegen Kazkrah und Jadzias Rollstuhl
-			- Kazkrah ist mit einem Mantel zugedeckt
-			- Jadzia ist tot
-				- Leiche nicht auffindbar
-				- hat immer vor Terim gewarnt
-			- Kazkrah ist tot
-			- Zuza ist nicht auffindbar
-		- Tod von Kem, Darius und Enya wurde verkündet
-			- Terim hat Bevölkerung versammeln lassen
-				- Zerstörung Grashks als Notwendiges Opfer bezeichnet
-				- Danksagungen an Iskra im Namen Darius', Kems und Enyas
-				- Kem, Darius und Enya hätten sich für Iskra geopfert
-	- verlorener Distrikt halbwegs unversehrt
-		- Trockenhafen am härtesten getroffen
-	- Prashtir sitzt auf dem Brunnen vor der Kirche
-		- schaut ins Lehre
-		- Nuriel hat schwierigkeiten beim Sprechen
-			- Nuriel erwähnt Axtkopf
-			- Symbol von Sekrah in Kirche wird erwähnt
-				- am Altar und an Wand mit Blut geschrieben
-			- Zeichen mit neuem Blut nachgemalt und mit Klinge in Stein
-	- beim Leichenmarsch wird Blut entzogen
-		- wie bei Nuriel
 	- Nuriel streckt Hand nach Enya aus
 	- Nuriel fragt nach Klinge
 		- kriecht Richtung Enya
