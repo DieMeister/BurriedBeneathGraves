@@ -15,6 +15,6 @@
 - [[Siath]]
 - [[Terim]]
 - [[Sivyl]]
-- [[Utlin]]
+- [[Uthlin]]
 - [[Verekir]]
 - [[Zuza]]

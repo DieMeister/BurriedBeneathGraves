@@ -12,12 +12,13 @@ Eine Zeit des Umschwungs, der Entwicklung und der rasanten Veränderung ist ange
 Auch die Erfindung der Kriegsmaschinen, humanoide Wesen, welche von Hand erschaffen wurden, stellen die Justiz und verschiedene Religionen auf den Kopf. In diesem Chaos sind nicht nur die Gräber besorgniserregend, sondern auch das, was unter ihnen vergraben liegt.
 # Generelle Informationen über die Welt
 ## Astronomie
-Die Erde ist rund.  
+Die Erde ist unserer Wahrnehmung nach rund.  
 Die Sonne geht im Norden auf, wandert dann über Westen und geht im Süden wieder unter, wobei ein Tag 28 Stunden hat.  
-Die Welt hat 2 Monde, einer von beiden ist aber konstant hinter dem anderen verdeckt.  
+Die Welt hat 2 Monde.  
 Es gibt 5 Jahreszeiten, welche jeweils aus genau 2 Monaten bestehen. Ein Monat ist dabei immer synchron zur Hälfte einer Mondphase, also endet immer entweder bei Voll- oder Neumond. Die Mondphasen sind innerhalb des Jahres unterschiedlich lang, in jedem Jahr aber gleich lang wie die Phase ein Jahr zuvor.  
 Die Jahreszeiten sind Wither, Stagnation, Bloom, Blossom und eine noch unklare
 ### Kalender
+![[Kalender.png]]
 #### Meluzan
 Der meluzanische Kalender basiert auf dem Zusammenschluss der Adelsfamilien.  
 Wir befinden uns im Jahr 763 nach Meluzan (763nM).

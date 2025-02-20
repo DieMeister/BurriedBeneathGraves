@@ -41,7 +41,9 @@
 - [x] create start page with general infos
 - [ ] strukturiere [[Notes]]
 - [ ] Infos von [[Notes]] in entsprechende Dateien übertragen
+- [ ] Infos aus GoogleDoc herausarbeiten
 - [ ] Keywords abarbeiten
 - [ ] WENN ERLAUBT: neue map hinzufügen
+- [ ] Ordner für wiederholbare Events wie Rituale oder Prozesse erstellen
 # General
 - [ ] Anarchie verstehen
