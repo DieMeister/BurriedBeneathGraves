@@ -18,10 +18,10 @@ Die Welt hat 2 Monde.
 Es gibt 5 Jahreszeiten, welche jeweils aus genau 2 Monaten bestehen. Ein Monat ist dabei immer synchron zur Hälfte einer Mondphase, also endet immer entweder bei Voll- oder Neumond. Die Mondphasen sind innerhalb des Jahres unterschiedlich lang, in jedem Jahr aber gleich lang wie die Phase ein Jahr zuvor.  
 Die Jahreszeiten sind Wither, Stagnation, Bloom, Blossom und eine noch unklare
 ### Kalender
-![[Kalender.png]]
+![Kalenderskizze](BuriedBeneathGraves/Scribbles/Kalender.png)
 #### Meluzan
 Der meluzanische Kalender basiert auf dem Zusammenschluss der Adelsfamilien.  
 Wir befinden uns im Jahr 763 nach Meluzan (763nM).
 #### Askarash
 Dieser Kalender beginnt mit der Machtübernahme in [[Karaxan]] und wurde bzw. wird ausschließlich in den ehemals eingenommenen Städten genutzt, dazu zählen unter anderem [[Karaxan]], [[Verekir]], [[Grashk]] und [[Ruzen]].  
-Wir befinden uns im Jahr 29 nach Ashkarash (29nA).
+Wir befinden uns im Jahr 29 nach Askarash (29nA).
