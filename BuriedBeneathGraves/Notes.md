@@ -1,38 +1,12 @@
-- kaum ein Jahr her seit Ashkarash gefallen ist
-	- Narben noch spürbar
-	- Ungewissheit
-- sehr unterschiedliche strömungen wie es nach dem krieg weitergehen soll
-- schienennetzt wird gebaut
-- von verekir nach grashk laufen ca. 3-4 wochen
-	- 1 seite vom hexagon = 1 woche auf befestigter straße
-# Creatures
-## Warforged
-- spitznamen teilweise schon aus krieg
-	- werden dann weiter benutzt
-- gatherer
-	- 4 meter groß
-	- subtypes gatherer
-		- corps collector
-			- spikes um leichen zu transportieren
-		- resource collector
-- siege
-	- ca 2 meter groß
-	- breit
-- envoy
-	- etwas kleiner als soldat
-- soldat
-	- ca 1,80 meter
+- 1 seite vom hexagon = 1 woche auf befestigter straße
 # Events
-
 ## Die Sintflut
 - Terim hat Bevölkerung versammeln lassen
 	- Tod von Kem, Darius und Enya wurde verkündet
 	- Zerstörung Grashks als Notwendiges Opfer bezeichnet
 	- Danksagungen an Iskra im Namen Darius', Kems und Enyas
 	- Kem, Darius und Enya hätten sich für Iskra geopfert
-
 # Items
-
 ## Amulette
 - Axtkopf ist eins
 - Großteil verloren oder zerstört
@@ -40,24 +14,21 @@
 - bekannte Amulette sicher aufbewahrt
 - erkennbar an Farbe
 - nicht möglich in ihrer Nähe zu sterben
-
 ## Kuo-Toa Stab
 - leicht gräulich
 - Knochen
 - Oktopus mit Stein im Kopf oben dran
 - Stil des Axtkopfes
-
 ## Rechners Ring
 - kann Gegenstände "einsaugen"
 	- lila Licht scheint
-
 ## Würfel
 - metallener, lilaner Schimmer
 - lässt sich nicht drehen
-
 # Locations
-
 ## Camp Recep
+- Spitznamen teilweise schon aus krieg
+	- werden dann weiter benutzt
 - Existenz wird durch hören-sagen verbreitet
 	- viele Kontakte 
 - zugang zu kreide
@@ -84,7 +55,6 @@
 ## Gelände zwischen Grashk und Klippe
 - Untergrund wechselt zwischen Wiese, Stein und Wald
 - Sonne scheint früher als in Grashk
-
 ## Grashk
 - teilweise stark zerstört
 	- Schiffe wurden in Stadt gespült
@@ -95,10 +65,8 @@
 		- Häuser brechen ein
 		- Leute suchen Freunde und Verwandte
 	- verlorener Distrikt halbwegs unversehrt
-
 ## Hornsingerbar
 - Bar komplett zerstört
-
 ## Höhle
 - 1 Tagesmarsch von Grashk entfernt
 - Treppe führt hoch zu Podest
@@ -110,34 +78,27 @@
 - Loch in Decke
 - Wasser füllt komplette Höhle aus
 	- Gegenstände aus Loch werden versenkt
-
 ## Iriels Laden
 - bei Flutwelle zerstört
-
 ## Kirche
 - Zeichen mit neuem Blut nachgemalt und mit Klinge in Stein
 - Darius holt Schaufel aus Kirche
 	- stand in der Nähe der Tür
-
 ## Klippe
 - riesiges Loch in der Wiese wo Höhle drunter ist
-
 ## Kudora
 - einziger ort an dem die dynastie interesse hat
 - Rätediktatur
 - Mekangesellschaft
-
 ## Meer
 - tobende Flut
 - starke Strömung
-
 ## Terims Haus
 - Enya raged und zerstört die Tür
 	- Tür fliegt aus den Angeln
 	- Tür flieht durch den halben Flur
 	- zerschmettert an der gegenüberliegenden Wand
 - Haus gehört Rechner
-
 # NPCs
 ## 4
 - Warforged
@@ -176,7 +137,6 @@
 - teil von trupp rabe
 - startet warforged studies und wissenschaften generell
 	- hat mit dem auseinanderbauen von waffen begonnen
-
 ## 32
 - Warforged
 - envoy
@@ -217,7 +177,6 @@
 - kennt Darius
 - ist für die Sicherheit in der Gegend um Grashk verantwortlich
 - weiß von 3 Amuletten
-
 ## 177
 - Warforged
 - Soldat
@@ -233,7 +192,6 @@
 - post traumatische Belastungsstörung
 - Kudora und Mekan fan
 - oft in Lehmkursen
-
 ## 212
 - Warforged
 - report
@@ -241,7 +199,6 @@
 - Teil von Camp Recep
 - autoritär
 	- will selbst Führung des camps übernehmen
-
 ## Iskra
 - Aufenthaltsort unklar
 	- nicht mehr in Grashk
@@ -251,27 +208,21 @@
 	- Iskra hätte Schutz gebraucht um Ritual durchzuführen
 - Iskra hat roten Kristall gezeigt, in dem Fluch sein soll
 	- Fluch ist nicht gebrochen sondern nur gefangen
-
 ## Jadzia
 - tot
 - Leiche nicht auffindbar
 - hat immer vor Terim geplant
-
 ## Kazkrah
 - tot
-
 ## Kuo-Toa Priester
 - auf Podest in Höhle gestorben
-
 ## Nuriel
 - Nuriel hat Schwierigkeiten beim Sprechen
 - Zusammenhang zu Axtkopf und Zeichen in Kirche?
 - Sieht aus, als sie Opfer des Leichenmarsch
-
 ## Prashtir
 - Prashtir sitzt auf dem Brunnen vor der Kirche
 	- schaut ins Lehre
-
 ## Terim
 - Terim ist hoch verschuldet
 - Darius überzeugt Terim als Flutbeobachter/Bürgermeister zurückzutreten
@@ -280,12 +231,9 @@
 	- Terim sehr eingeschüchtert von Kem
 	- Terim soll möglichst bald seine Fehlinformationen revidieren und zurücktreten
 - Terim bei rede über Flut extrem unsicher
-
 ## Zuza
 - nicht auffindbar
-
 # Party
-
 ## Darius 
 - kennt meisten der war forged aus recep
 	- auch 93
@@ -296,7 +244,6 @@
 ## Leichenmarsch
 - manifestation der Kraft Sekras falls existent
 - beim Leichenmarsch wird Blut entzogen
-
 ## Wiederbelebung
 - Nuriel streckt Hand nach Enya aus
 - Nuriel fragt nach Klinge
