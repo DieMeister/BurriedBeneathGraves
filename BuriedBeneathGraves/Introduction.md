@@ -18,7 +18,7 @@ Die Welt hat 2 Monde.
 Es gibt 5 Jahreszeiten, welche jeweils aus genau 2 Monaten bestehen. Ein Monat ist dabei immer synchron zur Hälfte einer Mondphase, also endet immer entweder bei Voll- oder Neumond. Die Mondphasen sind innerhalb des Jahres unterschiedlich lang, in jedem Jahr aber gleich lang wie die Phase ein Jahr zuvor.  
 Die Jahreszeiten sind Wither, Stagnation, Bloom, Blossom und eine noch unklare
 ### Kalender
-![Kalenderskizze](BuriedBeneathGraves/Scribbles/Kalender.png)
+![Kalenderskizze](./Scribbles/Kalender.png)
 #### Meluzan
 Der meluzanische Kalender basiert auf dem Zusammenschluss der Adelsfamilien.  
 Wir befinden uns im Jahr 763 nach Meluzan (763nM).
